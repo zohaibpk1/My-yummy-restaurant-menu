@@ -1,8 +1,8 @@
-🍽️ My Yummy Restaurant Menu
+**My Yummy Restaurant Menu**
 A simple command-line restaurant menu application built with Python. This beginner-friendly project allows users to view the menu, place food orders, and calculate the total bill.
 
 
-📖 About the Project
+About the Project:
 My Yummy Restaurant is a basic Python project created for learning programming concepts such as:
 Variables
 Dictionaries
@@ -10,14 +10,14 @@ User Input
 Conditional Statements (if/else)
 Basic Arithmetic Operations
 
-✨ Features
+Features:
 Displays the restaurant menu with prices.
 Allows customers to order food items.
 Supports ordering a second item.
 Calculates the total bill automatically.
 Shows an error message if the selected item is unavailable.
 
-🍕 Menu
+🍕Menu:
 Item	Price (PKR)
 Pizza	1250
 Burger	140
@@ -26,9 +26,8 @@ Salad	80
 Coffee	60
 Layz	70
 
-🛠️ Technologies Used
+Technologies Used:
 Python 3
-
 📁 Project Structure
 My-Yummy-Restaurant/
 │── restu.py
@@ -43,8 +42,7 @@ cd your-repository
 Run the program:
 restu.py
 
-
-💻 Sample Output
+Sample Output:
 Welcome to My Yummy Restaurant!
 
 Here is our menu:
@@ -62,7 +60,7 @@ Enter the name of your second item order = coffee
 Your item coffee has been added to your order.
 The total amount to pay is 200
 
-🚀 Future Improvements
+Future Improvements:
 Order multiple items.
 Add item quantity.
 Print a complete bill receipt.
@@ -72,4 +70,4 @@ Connect the program to a database.
 
 👨‍💻 Author
 Zohaib Raza
-Python Learner | Future AI Developer
+Python Learner || AI Developer
